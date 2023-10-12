@@ -18,7 +18,7 @@ Turn both touch input from a sensor and keyboard input from a user and turn it i
 	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/668f4f07-f096-42ce-962c-f82ba2d618d4)
 	- These 6 cables are going to be used to connect your touch sensor and your buzzer to your Pi via the breadboard.
 - 1x Active Buzzer (white sticker)Raspberry Pi-
-	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/cfabadf0-ecbe-4835-8554-7693af4ebf19)
+	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/17f44cac-8ef3-43db-af84-060480a2d26c)
 	- This will be the component we use to turn input from the user into sound.
 
 # Building the Circuit
