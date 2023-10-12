@@ -3,7 +3,7 @@ Turn both touch input from a sensor and keyboard input from a user and turn it i
 
 # Materials List:
 - Raspberry Pi
-	-![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/71c77669-5e4e-48d0-97ea-a3d34b84b04c)
+	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/71c77669-5e4e-48d0-97ea-a3d34b84b04c)
 	- This will be the mini computer you connect your circuits to and run your python scripts on.
 - A T-Cobbler Plus - GPIO Breakout
 	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/08be5423-7290-4736-911f-17a75daf9d67)
