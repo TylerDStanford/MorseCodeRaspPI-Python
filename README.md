@@ -12,7 +12,7 @@ Turn both touch input from a sensor and keyboard input from a user and turn it i
 	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/3809620c-9af0-437e-9236-3d458efee07c)
 	- This will be the means you use to connect the circuits to your Raspberry Pi. This is a non-permanent way to make circuits for your Pi.
 - 1x Touch Module -
-	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/545d7f64-1e4d-4bb9-86f2-05679ec3209f)
+	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/d9a06e86-6342-48ef-bae5-f6888154e987)
 	- This is the touch sensor we will be using to receive touch input from our user. 
 - 6x Female to Male Jumper Cables-
 	- ![image](https://github.com/TylerDStanford/MorseCodeRaspPI-Python/assets/141964312/668f4f07-f096-42ce-962c-f82ba2d618d4)
